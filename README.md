@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/209282dc-df46-4649-9274-99dfc227ade1)
+
 Penjelasan Pipeline Processing
 
 Pipeline processing adalah sebuah teknik dalam desain prosesor yang memungkinkan beberapa instruksi dieksekusi secara bersamaan dalam tahap-tahap yang berbeda. Analogi sederhananya adalah seperti jalur perakitan mobil. Setiap mobil bergerak melalui stasiun-stasiun yang berbeda di mana tugas-tugas spesifik dilakukan (misalnya, pemasangan mesin, pemasangan roda, pengecatan). Demikian pula, dalam pipeline prosesor, setiap instruksi dibagi menjadi beberapa tahap (stage), dan saat satu instruksi berada di satu tahap, instruksi berikutnya dapat memasuki tahap sebelumnya.
