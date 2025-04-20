@@ -1,3 +1,4 @@
+
 - Contoh Masalah 1: Hazard Data (Ketergantungan Data)
 Bayangkan sebuah pipeline dengan instruksi-instruksi berikut:
 
